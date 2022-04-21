@@ -20,9 +20,7 @@
   width: 100%;
   display: block;
   max-width: 100%;
-  min-width: 275px;
   min-height: 40px;
-  position: relative;
   text-shadow: none;
   outline: 0;
   transition: box-shadow 0.3s ease;
