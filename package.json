@@ -1,7 +1,7 @@
 {
   "name": "vime",
   "version": "5.3.1",
-  "private": true,
+  "private": false,
   "license": "MIT",
   "type": "module",
   "volta": {
